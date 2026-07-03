@@ -1,0 +1,6 @@
+{
+  "name": "Коттеджный поселок 'GreenWood'",
+  "description": "Официальный сайт элитного коттеджного поселка GreenWood. Продажа домов от застройщика.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
